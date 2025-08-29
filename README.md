@@ -10,7 +10,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/anstrinn/media-converter-sh.git
+git clone https://github.com/aocoronel/media-converter-sh.git
 chmod +x media-converter-sh/src/media-converter
 sudo cp media-converter-sh/src/media-converter /usr/local/bin/
 ```
